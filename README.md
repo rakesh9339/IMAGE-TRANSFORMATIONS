@@ -29,8 +29,8 @@ End the program.
 
 ## Program:
 ```python
-Developed By: DARIO G
-Register Number: 212222230027
+Developed By: Rakesh J.S
+Register Number: 212222230115
 ```
 
 i)Image Translation
