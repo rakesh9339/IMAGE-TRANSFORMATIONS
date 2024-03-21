@@ -159,50 +159,102 @@ plt.show()
 
 ## Output:
 
-### ORINGINAL IMAGE:
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/88295b75-d208-45a2-a923-2e4aab3ae07e)
+### (i) Image Translation
+<br>
+<br>
 
-
-### i)Image Translation
-
-
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/6b209b13-b8a6-4496-b9c5-779b27eb0b7b)
-
-
-### ii) Image Scaling
-#### Original Image
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/b7f52453-11af-4f22-b403-303bd624a202)
-
-#### Scaled Image
-
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/2baac832-1126-452d-b871-1fe20fc91057)
-
-
-
-### iii)Image shearing
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/a528ce3c-a2ce-4ab1-8ca3-b391d3c830d7)
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/6f70cd03-042e-4dc4-a25a-40658986ceb3)
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/5ef8771e-5b26-4364-bb9f-76c9067cad73) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/a689e0f0-5012-4a26-bf60-75f2bad69c06)
 
 
 
 
-### iv)Image Reflection
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/c97b784f-bb91-40f6-8b5d-d6810bbe8387)
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/aaf3a639-7cb7-4ff5-99b5-bc6b6c8f0435)
+
+<br>
+<br>
+
+### (ii) Image Scaling
+<br>
+<br>
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/b080c5b0-3bc8-4642-a7d8-b57dc62c871d) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/eebe805c-f0b5-411d-a5f5-de0aa7144ca0)
 
 
 
 
-### v)Image Rotation
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/f18ddbf5-6619-4f07-a719-3c6d169339e9)
+
+<br>
+<br>
+
+
+### (iii) Image shearing
+<br>
+<br>
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/2a4e4646-2b45-4c94-a807-39273f45141b) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/4e65674d-cd9c-4099-aec8-58305e88e46f)
 
 
 
-### vi)Image Cropping
+
+<br>
+<br>
 
 
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/fe7f73c9-4e08-492d-8eb5-c3195ac98fa3)
-![image](https://github.com/Nagul71/IMAGE-TRANSFORMATIONS/assets/118661118/7cf49f6b-3308-411c-a2c5-064cff757bdc)
+### (iv) Image Reflection
+
+
+#### Reflecting Horizontally
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/834c6f27-e4fa-481e-a38d-aa8769115eb5) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/8b859359-b271-4bff-98da-417b232613a4)
+
+
+
+
+#### Reflecting Vertically
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/834c6f27-e4fa-481e-a38d-aa8769115eb5) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/bc10d84a-7cf7-43df-90a8-b20e84242345)
+
+
+
+
+#### Reflecting Horizontally & Vertically
+
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/834c6f27-e4fa-481e-a38d-aa8769115eb5) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/26a1324c-bc48-4206-a877-5d3fb49a7564)
+
+
+<br>
+<br>
+
+
+### (v) Image Rotation
+<br>
+<br>
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/c11d65bc-f6cc-4f6e-b1ac-1bdb7e2d6dbf) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/2e4ce3df-b6cc-4c59-a6b9-bc1fb526f7bf)
+
+
+
+
+<br>
+<br>
+
+
+
+### (vi) Image Cropping
+<br>
+<br>
+
+![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/9cced89b-d2df-4f68-aff7-5dd9b997533d) ![image](https://github.com/KANISHKAR2607/IMAGE-TRANSFORMATIONS/assets/118886772/0a847c66-7cb6-43dd-b470-f1bb7a155763)
+
+
+
+<br>
+<br>
+
+
+
+
+
 
 
 
